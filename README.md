@@ -12,9 +12,4 @@ Java   8 hrs 16 mins   ███████████████████
 
 <!--END_SECTION:waka-->
 
-
-Example:
-<img
-  src="https://github.com/lukkolo/lukkolo/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<script src="https://gist.github.com/lukkolo/c89c418acb7b7f9367935fee8c922911.js"></script>
