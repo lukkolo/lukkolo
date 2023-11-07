@@ -4,6 +4,12 @@
 <!--
 **lukkolo/lukkolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img
+  src="https://github.com/lukkolo/lukkolo/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
