@@ -5,4 +5,9 @@
 <!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
+
+```txt
+Java   8 hrs 16 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
