@@ -12,4 +12,5 @@ Java   8 hrs 16 mins   ███████████████████
 
 <!--END_SECTION:waka-->
 
-<script src="https://gist.github.com/lukkolo/c89c418acb7b7f9367935fee8c922911.js"></script>
+ <!-- waka-box start -->
+ <!-- waka-box end -->
