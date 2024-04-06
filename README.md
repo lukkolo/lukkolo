@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         3 hrs 31 mins   █████████████████████████   99.99 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
