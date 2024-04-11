@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 31 mins   █████████████████████████   99.99 %
+Java         1 hr 18 mins    █████████████████████████   99.97 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
