@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 26 mins   ██████████████████████░░░   88.17 %
-XML          13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
