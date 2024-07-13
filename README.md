@@ -7,7 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         0 secs          ████████████▓░░░░░░░░░░░░   50.07 %
+YAML         0 secs          ███████████▒░░░░░░░░░░░░░   45.74 %
+XML          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
